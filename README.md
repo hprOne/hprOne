@@ -1,4 +1,4 @@
- <a href="https://www.youtube.com/watch?v=HoBa2SyvtpE">¯\_(ツ)_/¯</a> 
+ <a href="https://www.youtube.com/watch?v=HoBa2SyvtpE">¯ \ _ (ツ) _ / ¯</a> 
 
 <p align="left" height="130px">
   <a href="https://github.com/hprOne">
